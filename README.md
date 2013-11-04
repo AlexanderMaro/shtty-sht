@@ -1,4 +1,4 @@
 shtty-sht
 =========
 
-My repo
+My repository.
